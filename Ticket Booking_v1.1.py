@@ -1,7 +1,7 @@
 import sqlite3                    
 import tkinter             
 from tkinter import messagebox
-from tkinter import Event
+
 
 class DB:                         
     def __init__(self):           
